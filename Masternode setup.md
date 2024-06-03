@@ -112,6 +112,8 @@ Sh5A68rWopdgQGAFbCssMVS5E1fUXUd31p - Address of the owner of the masternode.
 
 SWu96a92Kv2w5PbcF793hofuQcPRDssaga - Address used for proposal voting.
 
+0 - operatorReward (string, required) The fraction in %% to share with the operator if you fully own the node set it to 0 for 0 %
+
 SWu96a92Kv2w5PbcF793hofuQcPRDssaga - Address to receive the masternode reward.
 
 SQKqF8aT2c5s5m9xgfqWgjJLmok7Gh27Vg - Address to where you send the masternode amount fee.
